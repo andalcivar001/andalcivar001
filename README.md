@@ -14,9 +14,12 @@ Desarrollador Fullstack Senior con más de 14 años de experiencia desarrollando
 - NestJS
 - Java Spring Boot
 
-
 ### Base de datos
 - SQL Server
+- Oracle
+- MySQL
+- PostgreSQL
+- MongoDB
 - Firebase
 
 ### Otras tecnologías
@@ -29,15 +32,15 @@ Desarrollador Fullstack Senior con más de 14 años de experiencia desarrollando
 
 ## 💼 Experiencia
 
-He trabajado en el desarrollo de:
+Experiencia desarrollando:
 
 - Sistemas ERP
 - Módulos de Recursos Humanos y Nómina
 - Sistemas contables
 - Plataformas e-commerce
 - Integraciones con SAP
-- Aplicaciones web y móviles
 - APIs y servicios backend
+- Aplicaciones web y móviles
 
 ---
 
