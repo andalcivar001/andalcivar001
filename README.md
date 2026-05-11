@@ -46,7 +46,8 @@ Experiencia desarrollando:
 
 ## 📫 Contacto
 
-- LinkedIn: AQUÍ_TU_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/andres-alcivar-7397152ab/
+- Portafolio: https://andres-alcivar-portafolio.netlify.app/
 
 ---
 
