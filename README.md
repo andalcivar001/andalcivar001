@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hola, soy Andres Alcivar
 
-<!--
-**andalcivar001/andalcivar001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Fullstack Senior con más de 14 años de experiencia desarrollando aplicaciones empresariales, plataformas web y soluciones tecnológicas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- Angular
+- Flutter
+
+### Backend
+- .NET
+- Node.js
+- NestJS
+
+### Base de datos
+- SQL Server
+- Firebase
+
+### Otras tecnologías
+- PowerBuilder
+- Git
+- REST APIs
+- Socket.IO
+
+---
+
+## 💼 Experiencia
+
+He trabajado en el desarrollo de:
+
+- Sistemas ERP
+- Módulos de Recursos Humanos y Nómina
+- Sistemas contables
+- Plataformas e-commerce
+- Integraciones con SAP
+- Aplicaciones web y móviles
+- APIs y servicios backend
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: AQUÍ_TU_LINKEDIN
+
+---
+
+⭐ Apasionado por el desarrollo de software y la creación de soluciones tecnológicas eficientes.
