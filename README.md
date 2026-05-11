@@ -12,6 +12,8 @@ Desarrollador Fullstack Senior con más de 14 años de experiencia desarrollando
 - .NET
 - Node.js
 - NestJS
+- Java Spring Boot
+
 
 ### Base de datos
 - SQL Server
